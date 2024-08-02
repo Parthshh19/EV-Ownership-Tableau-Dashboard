@@ -1,5 +1,7 @@
 # EV-Ownership-Tableau-Dashboard
 
+Dashboard Link https://public.tableau.com/views/Assignment3_17176517592970/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Objective
 
 The intended objective for this dashboard is focused on understanding customer demographics, charging behaviour, and cost savings associated with EV ownership. 
