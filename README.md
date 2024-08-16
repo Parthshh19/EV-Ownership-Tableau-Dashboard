@@ -18,18 +18,26 @@ Actions and Outcomes
 ### The dashboard will support in:
 
 Identifying key customer segments based on demographics.
+
 Understanding the most common charging patterns to improve charging technology.
+
 Analysing cost savings to highlight the financial benefits of EV ownership in marketing campaigns.
+
 Exploring regional variations to tailor marketing and sales strategies accordingly.
+
 Analysing buying motivation across different households and ensuring vehicles in different segments focus on those needs.
 Desired Feelings
 
 The dashboard should evoke feelings of confidence and curiosity. It should be designed to be:
 
 Professional: Clean and organized layout with clear labelling and legends.
+
 Engaging: Interactive elements that invite Emma to explore different data dimensions.
+
 Informative: Detailed yet concise information that provides actionable insights.
+
 Empowering: Enable Emma to make data-driven decisions with ease and assurance.
+
 By addressing these aspects, the dashboard will not only meet Emma’s informational needs but also foster a sense of mastery over the data, allowing her to drive GreenWheels Inc. toward greater success in the EV market.
 
 ## The Right Fit
