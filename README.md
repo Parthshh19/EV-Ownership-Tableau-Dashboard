@@ -26,7 +26,8 @@ Analysing cost savings to highlight the financial benefits of EV ownership in ma
 Exploring regional variations to tailor marketing and sales strategies accordingly.
 
 Analysing buying motivation across different households and ensuring vehicles in different segments focus on those needs.
-Desired Feelings
+
+## Desired Feelings
 
 The dashboard should evoke feelings of confidence and curiosity. It should be designed to be:
 
