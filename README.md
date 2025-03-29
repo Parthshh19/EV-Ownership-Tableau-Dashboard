@@ -13,9 +13,10 @@ What are the most sold type of electric vehicles in different regions?
 How much cost savings do EV owners realize compared to traditional vehicle owners?
 What is the motivation behind EV adoption in different households?
 What are the typical charging behaviours of these owners?
-Actions and Outcomes
 
-### The dashboard will support in:
+### Actions and Outcomes
+
+The dashboard will support in:
 
 Identifying key customer segments based on demographics.
 
@@ -45,7 +46,7 @@ By addressing these aspects, the dashboard will not only meet Emma’s informati
 
 The overall design uses a limited, consistent colour palette, with most features coloured according to EV Type and Number of EV Owners. The restrained use of colour ensures that data can be read at a glance, allowing inherent patterns to emerge clearly. Disparate colours make up the qualitative colour scheme, providing a visually appealing and easy-to-navigate interface. Fonts are also used consistently, with use of bold text to emphasize on the dashboard heading.
 
-The geographical heatmap that initially draws the eye is used to the geographical distribution of the number of EV owners.. Other key charts are arranged on the dashboard to provide a balanced and visually appealing layout, highlighting important information. Individual visualisations include:
+The geographical heatmap that initially draws the eye is used to the geographical distribution of the number of EV owners. Other key charts are arranged on the dashboard to provide a balanced and visually appealing layout, highlighting important information. Individual visualisations include:
 
 Most Owned Type of Electric Vehicles in Different Regions:
 Tree Map: Highlights the most popular EV types (BEV, PHEV, FCEV) by region, with different colours representing the intensity indicating ownership volume.
